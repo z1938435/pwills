@@ -29,7 +29,7 @@ minimal_mistakes_skin: "dirt"
 # settings for author profile
 author:
   name   : "Christian Rummler"
-  avatar : "/assets/images/headshot.jpg/
+  avatar : "https://media.licdn.com/dms/image/C4D03AQEa2dQIbTWdUQ/profile-displayphoto-shrink_800_800/0/1668027077320?e=1703116800&v=beta&t=qwQ7DzmC6l80pBdhAamSqnAn1VD2ytE6iteK_e28aL0"
   bio    : "Learning about Tech!"
   location: "Downers Grove, IL"
   github : z1938435
