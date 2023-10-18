@@ -25,7 +25,7 @@ complex queries in SQL have been my favorite areas of study thus far.
 I hope to find employment as a data, business, or financial analyst
 where I can use my skills to be a valuable asset for a company.
 
-I currently live in Downers Grove, Illinois with my family and two lovely dogs.
+I currently live in Downers Grove, Illinois with my family and two lovely dogs.[^fnote2]
 I spend most of my time watching sports, and when there are none to watch
 I am on [baseball-reference](baseball-reference.com) or [fangraphs](fangraphs.com) digging into data.
 I love the midwest, but I am always looking to try something new if the right opportunity
