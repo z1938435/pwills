@@ -7,47 +7,26 @@ permalink: /aboutme/
 ---
 
 # About Me
+I am a student at Northern Illinois University studying
+Operations Management and Information Systems. 
+I am graduating December of 2023 and I am currently seeking
+employment opportunities post-grad.
 
-<img src="{{ "/assets/images/routeburn.jpg" | absolute_url }}"
-width="50%" hspace="20" align="right">
+Throughout my time at NIU I have learned many valuable skills
+both inside and outside of the classroom. Inside the classroom 
+I have worked on developing competencies in SQL, Python, Tableau,
+PowerBI, SAP, and SAS. While outside the classroom, thanks to my internship
+and opportunity in the NIU Experential Learning Center I have developed
+strong professional communication and public speaking skills.
 
-I help organizations understand and leverage their quantitative
-information. Call it what you will: data science, machine learning, or
-statistics; the modern technological world lies at the intersection of
-mathematics and computing, and that's where I like to play.
+Data analytics is what initially brought me to my major, guided
+by my love for sports statistics. Visualizing data using Tableau and writing 
+complex queries in SQL have been my favorite areas of study thus far.
+I hope to find employment as a data, business, or financial analyst
+where I can use my skills to be a valuable asset for a company.
 
-I've worked with [unicorn start-ups][5] and [large publicly traded corporations][6],
-building models, establishing codebases, and providing mathematical expertise to
-developers. My mother tongue is Python, but I also speak Scala and Java. I have
-experience working with the full Python data stack, and also have experience writing
-Spark jobs in Scala and Java.
-
-I have a bachelors degree in Physics from Reed College, where I did
-[my thesis][2] on measurement of quantum entanglement in optical systems. After
-spending some time pursuing other interests,[^fnote2] I began working on my
-Ph.D. in Applied Mathematics at University of Colorado. My dissertation covers a
-range of topics in statistics, data analytics, and understanding noisy
-systems. For more details on all that, check out [my portfolio](/portfolio/), or
-take a look at [my resume][4].
-
-I live at the [EcoVillage in Ithaca](https://ecovillageithaca.org/). Most recently, I
-worked remotely as a Senior Machine Learning Engineer at [Abnormal
-Security](https://abnormalsecurity.com/).
-
-[^fnote2]: After graduating from Reed, I spent some time living at
-	[Great Vow Zen Monastery][3], where we followed a daily schedule of work and
-	meditation.
-
-[1]: mailto: peter@pwills.com
-
-[2]: /assets/docs/thesis.pdf
-
-[3]: https://www.zendust.org/monastery
-
-[4]: /assets/docs/resume.pdf
-
-[5]: https://www.abnormalsecurity.com
-
-[6]: https://www.stitchfix.com
-
-[7]: https://multithreaded.stitchfix.com/algorithms/
+I currently live in Downers Grove, Illinois with my family and two lovely dogs.
+I spend most of my time watching sports, and when there are none to watch
+I am on [baseball-reference](baseball-reference.com) or [fangraphs](fangraphs.com) digging into data.
+I love the midwest, but I am always looking to try something new if the right opportunity
+presents itself.
