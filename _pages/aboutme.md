@@ -20,11 +20,11 @@ and opportunity in the NIU Experential Learning Center I have developed
 strong professional communication and public speaking skills.
 
 Data analytics is what initially brought me to my major, guided
-by my love for sports statistics. Visualizing data using Tableau and writing 
+by my love and sports statistics. Visualizing data using Tableau and writing 
 complex queries in SQL have been my favorite areas of study thus far.
 I hope to find employment as a data, business, or financial analyst
 where I can use my skills to be a valuable asset for a company.
 
 I currently live in Downers Grove, Illinois with my family and two lovely dogs.
-I spend most of my time watching sports, and when there are none to watch
+I spend most of my time watching sports. Go Cubs! When there are none to watch
 I am on [baseball-reference](baseball-reference.com) or [fangraphs](fangraphs.com) digging into data.
