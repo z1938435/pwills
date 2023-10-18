@@ -1,8 +1,8 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/utah.jpg
-  caption: "Photo Credit: **Kathleen Finlinson**"
+  overlay_image: /assets/images/wrigley.jpg
+  caption: "Wrigley Field"
 permalink: /aboutme/
 ---
 
