@@ -1,10 +1,10 @@
 # Configs for pwills.com
 
 title: "Christian's Site"
-name: "pwills.com"
-email: peter@pwills.com
-url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+name: "https://www.linkedin.com/in/christianrummler/"
+email: christianrrummler@gmail.com
+url: "https://www.linkedin.com/in/christianrummler/"
+repository: "pewills/z1938435.github.io"
 
 include:
   - _pages
