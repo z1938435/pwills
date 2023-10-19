@@ -1,0 +1,12 @@
+---
+title:  "Insert Article Title Here"
+category: posts
+date: 2023-10-19
+excerpt: "This will appear under the title on the blog homepage"
+---
+
+# Header goes here, usually title
+Use markdown to format blog posts here.
+
+Make sure to format file name as YYYY-MM-DD-Title
+And make sure to change date to current date
