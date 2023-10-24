@@ -5,7 +5,6 @@ date: 2023-10-24
 excerpt: "What to expect in these posts"
 ---
 
-# Welcome
 Now I think you may be wondering what to expect from my blog posts ...
 
 Well so am I.
